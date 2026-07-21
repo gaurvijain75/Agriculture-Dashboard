@@ -51,7 +51,6 @@ This dashboard brings together agronomic, environmental, and farming-practice da
 
 ## 📸 Preview
 
-*(Add a screenshot here — export a view of the dashboard as PNG and reference it: `![dashboard preview](screenshot.png)`)*
-
+![Smart Farming Dashboard Preview](images/Screenshot 2026-07-21 115718.png)
 ---
 *Project by Gaurvi Jain*
